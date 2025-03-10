@@ -6,6 +6,11 @@ body {
 button {
     background-color: pink;
     font-weight: 800;
+    font-size: 30px;
+}
+
+.big-button {
+    font-size: 50px;
 }
 
 .recipe-title {
@@ -26,4 +31,10 @@ button {
 h2 {
     font-size: 30px;
     color: rgb(94, 41, 41);
+}
+
+.quote {
+    font-family: Fantasy;
+    font-size: 25px;
+    font-weight: bold;
 }
