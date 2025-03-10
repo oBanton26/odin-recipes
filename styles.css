@@ -38,3 +38,7 @@ h2 {
     font-size: 25px;
     font-weight: bold;
 }
+
+ol li {
+    font-weight: bold;
+}
